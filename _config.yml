@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Welcome"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "불스아이(불알)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/thinking-emoji.jpg"
   bio              : "코딩은 어느정도하는 중딩 ㅎㅎ"
   location         : "South Korea"
-  email            :
+  email            :munseokhun@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:munseokhun@gmail.com"
+      # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
