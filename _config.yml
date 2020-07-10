@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "불스아이"
+name                     : "BullsEye"
 description              : "코딩은 어느정도하는 중딩 ㅎㅎ"
 url                      : "https://bullseye0210.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "불스아이(불알)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "코딩은 어느정도하는 중딩 ㅎㅎ"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:munseokhun@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/BullsEye0210"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
