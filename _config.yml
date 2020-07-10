@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/thinking-emoji.png"
   bio              : "코딩은 어느정도하는 중딩 ㅎㅎ"
   location         : "South Korea"
-  email            :"munseokhun@gmail.com"
+  email            : "munseokhun@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
