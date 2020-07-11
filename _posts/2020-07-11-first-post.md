@@ -1,20 +1,14 @@
 ---
 title:  "2020년7월11일 블로그 시작"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+excerpt: "안녕하세요 ㅎㅎ 불스아이입니다"
 
 categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2020-07-11T00:20:00-05:00
+last_modified_at: 2020-07-11T15:40:00-05:00
 ---
 
-GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
-
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
-
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 {{ page.title }}이고
-마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+안녕하세요 불스아이입니다 별명은 크흠...아시죠???
+일단 여기 블로그는 매일은 못올릴거 같습니다.
+일단 천천히 하나씩 올리겠습니다 감사합니다 
